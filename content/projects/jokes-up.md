@@ -7,11 +7,6 @@ socialImage: "/media/projects/jokes-up/ic_launcher-web"
 <div style="  display:flex;justify-content:center;">
 <img src="/media/projects/jokes-up/ic_launcher-web.png" alt="screenshot2" width="200"/>
 </div>
-An app that I made to learn Android development.
- 
-It took me around one and a half months from beginning to publishing it on Play Store. 
-
-It let me understand that mobile app development is a different realm with its own rules, specifications and limitations.
 
 ## Some Promotional Content: 
 An Android app for jokes
